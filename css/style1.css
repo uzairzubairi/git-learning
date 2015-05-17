@@ -1,0 +1,12 @@
+body{
+	background-color: rgba(220,220,255,1);
+}
+#coffee{
+	text-decoration:underline;
+	color:brown;
+}
+
+#hotc{
+	text-decoration:underline;
+	color: silver;
+}
